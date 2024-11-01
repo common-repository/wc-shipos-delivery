@@ -1,0 +1,594 @@
+# Copyright (C) 2024 Amit Matat
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Deliver via Shipos for WooCommerce 2.1.1\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wc-shipos-delivery\n"
+"POT-Creation-Date: 2024-10-02 11:28:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: class/class-admin.php:48
+msgid "We are experiencing a communication error. Please try again later."
+msgstr ""
+
+#: class/class-admin.php:49
+msgid "Cancel shipment"
+msgstr ""
+
+#: class/class-admin.php:50
+msgid "Shipment canceled successfully"
+msgstr ""
+
+#: class/class-admin.php:51
+msgid "Reopen shipment"
+msgstr ""
+
+#: class/class-admin.php:52
+msgid "Open"
+msgstr ""
+
+#: class/class-admin.php:53
+msgid "Delivery man on his way"
+msgstr ""
+
+#: class/class-admin.php:54
+msgid "Delivered"
+msgstr ""
+
+#: class/class-admin.php:55
+msgid "Collected from customer"
+msgstr ""
+
+#: class/class-admin.php:56
+msgid "Back from costumer"
+msgstr ""
+
+#: class/class-admin.php:57
+msgid "Approved"
+msgstr ""
+
+#: class/class-admin.php:58
+msgid "Canceled"
+msgstr ""
+
+#: class/class-admin.php:59
+msgid "Second delivery man "
+msgstr ""
+
+#: class/class-admin.php:60
+msgid "On hold"
+msgstr ""
+
+#: class/class-admin.php:61
+msgid ""
+"Error fetching data from Matat. Please check your API Settings on Settings "
+"-> Matat Delivery"
+msgstr ""
+
+#: class/class-admin.php:62
+msgid ""
+"Error opening shipment in Matat. Please check your API Settings on Settings "
+"-> Matat Delivery"
+msgstr ""
+
+#: class/class-admin.php:106 class/class-admin.php:116
+#: class/class-admin.php:421
+msgid "Matat Shipos"
+msgstr ""
+
+#: class/class-admin.php:130 class/class-admin.php:452
+msgid ""
+"Order shipping method is Local pickup. Create delivery option is disabled "
+"for this order"
+msgstr ""
+
+#: class/class-admin.php:165
+msgid "Matat shipment details: "
+msgstr ""
+
+#: class/class-admin.php:174 class/class-ajax.php:181
+msgid "Double delivery"
+msgstr ""
+
+#: class/class-admin.php:176 class/class-admin.php:335 class/class-ajax.php:183
+#: class/class-ajax.php:190
+msgid "Regular delivery"
+msgstr ""
+
+#: class/class-admin.php:179 class/class-ajax.php:186
+msgid "Collecting delivery"
+msgstr ""
+
+#: class/class-admin.php:186 class/class-admin.php:230
+#: class/class-admin.php:363
+msgid "Shipment number:"
+msgstr ""
+
+#: class/class-admin.php:195 class/class-admin.php:369
+#: class/class-admin.php:493
+msgid "Print label"
+msgstr ""
+
+#: class/class-admin.php:208 class/class-admin.php:470
+msgid "Shipment canceled"
+msgstr ""
+
+#: class/class-admin.php:210
+msgid "Cancel delivery"
+msgstr ""
+
+#: class/class-admin.php:223
+msgid "Delivery status"
+msgstr ""
+
+#: class/class-admin.php:236
+msgid "Type:"
+msgstr ""
+
+#: class/class-admin.php:242
+msgid "Company:"
+msgstr ""
+
+#: class/class-admin.php:248
+msgid "Delivery time:"
+msgstr ""
+
+#: class/class-admin.php:254
+msgid "Receiver name:"
+msgstr ""
+
+#: class/class-admin.php:259
+msgid "Delivery status:"
+msgstr ""
+
+#: class/class-admin.php:265
+msgid "Shipped on:"
+msgstr ""
+
+#: class/class-admin.php:293
+msgid "Create shipping:"
+msgstr ""
+
+#: class/class-admin.php:326
+msgid "Double"
+msgstr ""
+
+#: class/class-admin.php:328
+msgid "Amount to collect"
+msgstr ""
+
+#: class/class-admin.php:338
+msgid "Collecting"
+msgstr ""
+
+#: class/class-admin.php:343
+msgid "Deliver on:"
+msgstr ""
+
+#: class/class-admin.php:350
+msgid "Packages:"
+msgstr ""
+
+#: class/class-admin.php:358
+msgid "Open shipment"
+msgstr ""
+
+#: class/class-admin.php:373
+msgid "Powered by"
+msgstr ""
+
+#: class/class-admin.php:526
+msgid "Create shipping"
+msgstr ""
+
+#: class/class-admin.php:557
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: class/class-admin.php:586
+msgid "Deliver via Shipos"
+msgstr ""
+
+#: class/class-ajax.php:37 class/class-ajax.php:229 class/class-ajax.php:247
+#: class/class-ajax.php:278 class/class-delivery.php:134
+msgid "Failed security check"
+msgstr ""
+
+#: class/class-ajax.php:151
+msgid "Error creating shipment"
+msgstr ""
+
+#: class/class-ajax.php:195
+#. translators: 1: Shipping Number, 2: Shipping Type
+msgid "Shipping successfully created, shipping number: %1$s Shipping type: %2$s"
+msgstr ""
+
+#: class/class-ajax.php:262
+msgid " Order canceled"
+msgstr ""
+
+#: class/class-ajax.php:290 includes/Pickup.php:423
+msgid "Failed to initialise WC_Filesystem API while trying to sync Shipos Cities."
+msgstr ""
+
+#: class/class-ajax.php:306
+msgid "Json file retrieved locally"
+msgstr ""
+
+#: class/class-ajax.php:311
+msgid "Locations retrieved from server"
+msgstr ""
+
+#: class/class-license.php:110 class/class-license.php:129
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: class/class-license.php:121
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: class/class-license.php:125
+msgid "Invalid license."
+msgstr ""
+
+#: class/class-rest-routes.php:49
+msgid "You are not authenticated."
+msgstr ""
+
+#: class/class-settings.php:38
+msgid "Settings"
+msgstr ""
+
+#: class/class-settings.php:47
+msgid "General"
+msgstr ""
+
+#: class/class-settings.php:48
+msgid "GetPackage Integration"
+msgstr ""
+
+#: class/class-settings.php:79
+msgid "Shipos Delivery"
+msgstr ""
+
+#: class/class-settings.php:126
+msgid "Unable to fetch licenses"
+msgstr ""
+
+#: class/class-settings.php:136
+msgid "You do not have any licenses supporting GetPackage"
+msgstr ""
+
+#: class/class-settings.php:152
+msgid "Shipos GetPackage Integration"
+msgstr ""
+
+#: class/class-settings.php:157
+msgid "Enable"
+msgstr ""
+
+#: class/class-settings.php:159
+msgid "Enable same day delivery shipping method using GetPackage"
+msgstr ""
+
+#: class/class-settings.php:163
+msgid "Select company"
+msgstr ""
+
+#: class/class-settings.php:196
+msgid "Please fill the license field and start shipping."
+msgstr ""
+
+#: class/class-settings.php:218
+msgid "License successfully activated"
+msgstr ""
+
+#: class/class-settings.php:234
+msgid "Sync pickup location"
+msgstr ""
+
+#: class/class-settings.php:239
+msgid "Shipos option settings"
+msgstr ""
+
+#: class/class-settings.php:245
+msgid "License Key"
+msgstr ""
+
+#: class/class-settings.php:251
+msgid "When do you want to send Shipment?"
+msgstr ""
+
+#: class/class-settings.php:253
+msgid "Manually by clicking"
+msgstr ""
+
+#: class/class-settings.php:257
+msgid "Use order notes?"
+msgstr ""
+
+#: class/class-settings.php:259
+msgid "Use order notes if order comment field is empty"
+msgstr ""
+
+#: class/class-settings.php:263
+msgid "Activate collection points?"
+msgstr ""
+
+#: class/class-settings.php:265
+msgid "Not supported by all courier companies"
+msgstr ""
+
+#: class/class-settings.php:269
+msgid "Google Maps API Key"
+msgstr ""
+
+#: class/class-settings.php:274
+msgid "Pickup point display preference"
+msgstr ""
+
+#: class/class-settings.php:277
+msgid "Selection from a list"
+msgstr ""
+
+#: class/class-settings.php:278 class/class-settings.php:287
+msgid "Google Map"
+msgstr ""
+
+#: class/class-settings.php:279
+msgid "Both list and Google Map"
+msgstr ""
+
+#: class/class-settings.php:284
+msgid "Default Pickup point display"
+msgstr ""
+
+#: class/class-settings.php:288
+msgid "List"
+msgstr ""
+
+#: class/class-settings.php:294
+msgid "Apply Free Shipping By Price"
+msgstr ""
+
+#: class/class-settings.php:297
+msgid "After Discount"
+msgstr ""
+
+#: class/class-settings.php:298
+msgid "Before Discount"
+msgstr ""
+
+#: class/class-settings.php:303
+msgid "Phone Number Field Key"
+msgstr ""
+
+#: class/class-settings.php:308
+msgid "House Number Field Key"
+msgstr ""
+
+#: class/class-settings.php:313
+msgid "Apartment Field Key"
+msgstr ""
+
+#: class/class-settings.php:318
+msgid "Floor Field Key"
+msgstr ""
+
+#: class/class-settings.php:323
+msgid "Entrance Field Key"
+msgstr ""
+
+#: class/class-settings.php:328
+msgid "Order Comment Field Key"
+msgstr ""
+
+#: class/class-settings.php:336
+msgid "Test Mode"
+msgstr ""
+
+#: class/class-settings.php:338
+msgid "Run the shipment for testing  ?"
+msgstr ""
+
+#: includes/GetPackage.php:61 includes/GetPackage.php:62
+msgid "Shipos GetPackage"
+msgstr ""
+
+#: includes/GetPackage.php:83 includes/GetPackage.php:86
+msgid "Shipos GetPackage Delivery"
+msgstr ""
+
+#: includes/GetPackage.php:85 includes/Pickup.php:38
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/GetPackage.php:90 includes/Pickup.php:43
+msgid "Cost"
+msgstr ""
+
+#: includes/GetPackage.php:92 includes/Pickup.php:45
+msgid "Enter delivery cost"
+msgstr ""
+
+#: includes/GetPackage.php:97 includes/Pickup.php:49
+msgid "Discount cost"
+msgstr ""
+
+#: includes/GetPackage.php:99 includes/Pickup.php:51
+msgid "Enter discount cost"
+msgstr ""
+
+#: includes/GetPackage.php:104 includes/Pickup.php:56
+msgid "Discount cost condition"
+msgstr ""
+
+#: includes/GetPackage.php:106 includes/Pickup.php:58
+msgid "Changing shipping method price if the order amount is higher than..."
+msgstr ""
+
+#: includes/GetPackage.php:111 includes/Pickup.php:63
+msgid "Coupons discounts"
+msgstr ""
+
+#: includes/GetPackage.php:112 includes/Pickup.php:64
+msgid "Apply minimum order rule before coupon discount"
+msgstr ""
+
+#: includes/GetPackage.php:114 includes/Pickup.php:66
+msgid ""
+"If checked, free shipping would be available based on pre-discount order "
+"amount."
+msgstr ""
+
+#: includes/Pickup.php:26 includes/Pickup.php:27 includes/Pickup.php:36
+#: includes/Pickup.php:39
+msgid "Shipos delivery"
+msgstr ""
+
+#: includes/Pickup.php:144
+msgid "Click to select a pickup point"
+msgstr ""
+
+#: includes/Pickup.php:159
+msgid "Chosen Delivery Spot"
+msgstr ""
+
+#: includes/Pickup.php:196
+msgid "Choose a Collection Point"
+msgstr ""
+
+#: includes/Pickup.php:197
+msgid "Search and Select a collection point by origin address"
+msgstr ""
+
+#: includes/Pickup.php:204
+msgid "Select On Map"
+msgstr ""
+
+#: includes/Pickup.php:208
+msgid "Select Manually"
+msgstr ""
+
+#: includes/Pickup.php:227
+msgid "Selected pickup point:"
+msgstr ""
+
+#: includes/Pickup.php:237 includes/Pickup.php:316
+msgid "Select Collection Point"
+msgstr ""
+
+#: includes/Pickup.php:241 includes/Pickup.php:320
+msgid "Clear"
+msgstr ""
+
+#: includes/Pickup.php:268
+msgid "Search"
+msgstr ""
+
+#: includes/Pickup.php:279
+msgid "Total Results: "
+msgstr ""
+
+#: includes/Pickup.php:300
+msgid "View on Map"
+msgstr ""
+
+#: includes/Pickup.php:376
+msgid "Please select delivery spot."
+msgstr ""
+
+#: includes/Pickup.php:407 includes/Pickup.php:459
+msgid "Requested Delivery point"
+msgstr ""
+
+#: includes/Pickup.php:419
+msgid "Oops! Error getting response from server..."
+msgstr ""
+
+#: includes/Pickup.php:439
+msgid "Pickup location created successfully..."
+msgstr ""
+
+#: includes/Pickup.php:441
+msgid "Oops! Error creating pickup json file..."
+msgstr ""
+
+#: includes/matat-actions.php:41
+msgid "Ship OS - create bulk shipping"
+msgstr ""
+
+#: includes/matat-actions.php:42
+msgid "Create shipos labels"
+msgstr ""
+
+#: includes/matat-actions.php:115
+msgid "Error: None of the selected orders have shipments."
+msgstr ""
+
+#: includes/matat-actions.php:117
+msgid "Error: No of selected shipments have exceeded max amount of 100."
+msgstr ""
+
+#: includes/matat-actions.php:143
+#. translators: %d: WooCommerce Order id, %s: Error message
+msgid "There is an error with order id (%1$d): %2$s"
+msgstr ""
+
+#: includes/matat-actions.php:190
+#. translators: %s: Shipping
+msgid "Shipping: %s"
+msgstr ""
+
+#: includes/matat-actions.php:202
+#. translators: %s: Total
+msgid "%s Sent"
+msgstr ""
+
+#: wc-shipos-delivery.php:144
+msgid ""
+"WooCommerce is not active. Please activate plugin before using Matat "
+"Delivery plugin."
+msgstr ""
+
+#: wc-shipos-delivery.php:152
+msgid "Warning! Shipos is currently running in test mode."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Deliver via Shipos for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://matat.co.il/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for Ship os Delivery orders from within WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Amit Matat"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.linkedin.com/in/amitmatatof/"
+msgstr ""

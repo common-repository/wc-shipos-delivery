@@ -1,0 +1,123 @@
+.matat-button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    padding: 0 10px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.matat-open-button, .matat-open-button-new, .matat-reopen-ship {
+    background: #ff8e15;
+}
+
+.matat-open-button:disabled, .matat-open-button-new:disabled, .matat-reopen-ship:disabled {
+    background: rgba(255, 142, 21, 0.5);
+    pointer-events: none;
+}
+
+.matat-open-button:hover, .matat-open-button-new:hover, .matat-reopen-ship:hover {
+    background: #c95f17;
+}
+
+#matat_checkbox, #matat_collect, #matat_motor, #dvsfw_packages,#dvsfw_packages_new, #dvsfw_exaction_date,#dvsfw_exaction_date_new {
+    margin-bottom: 15px;
+}
+#matat_collect {
+    width: 50px;
+}
+#dvsfw_packages, #dvsfw_packages_new {
+    width: 50px;
+}
+
+.matat_loader {
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+}
+.matat-print-button, .matat-print-button-new {
+    background: #008000;
+}
+.matat-print-button:hover, .matat-print-button-new:hover {
+    background: #005200;
+    color: #FFFFFF;
+}
+.matat-print-button:visited, .matat-print-button-new:visited {
+    color: #FFFFFF;
+}
+
+.matat-success-ship {
+    display: none;
+}
+.matat-success-ship-number {
+    color: green;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.matat_exist_details {
+    display: none;
+}
+#matat_ship_exists span {
+    margin: 5px;
+    color: green;
+}
+.matat_error_message {
+    color: #ff0006;
+}
+.matat-cancel-ship {
+    background: #ff0006;
+}
+.matat-cancel-ship:hover {
+    background: #a10006;
+}
+
+.matat-button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.matat-button-container-open, .matat-button-container-open-new {
+    text-align: center;
+}
+
+.matat-powered-by, .matat-powered-by-new  {
+    direction: ltr;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.matat-powered-by span, .matat-powered-by-new span {
+    font-size: 13px;
+    color: #1a1a1a !important;
+}
+
+.matat-powered-by img, .matat-powered-by-new img {
+    height: 20px;
+    vertical-align: middle;
+}
+div#TB_ajaxContent {
+    text-align: right;
+}
+.ship_status {
+    background-color: orange;
+}
+
+.matat-blur-on-lose-focus:not(:focus) {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+#wpadminbar #wp-admin-bar-deliver-via-shipos {
+    background-color: #ff8e15;
+}
+
+#wpadminbar #wp-admin-bar-deliver-via-shipos:hover a {
+    color: #ff8e15 !important;
+}

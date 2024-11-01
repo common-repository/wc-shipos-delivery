@@ -1,0 +1,41 @@
+.matat-button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    padding: 0 10px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.matat-print-button, .matat-print-button-new {
+    background: #008000;
+}
+
+.matat-print-button:hover, .matat-print-button-new:hover {
+    background: #005200;
+    color: #FFFFFF;
+}
+
+.matat-print-button:visited, .matat-print-button-new:visited {
+    color: #FFFFFF;
+}
+
+.matat-table-deliv-num span, .matat-table-deliv-num-new span {
+    color: #ff8e15;
+    font-weight: bold;
+}
+.matat-table-deliv-not {
+    text-align: center;
+    color: #999;
+}
+
+.dvsfw_form-group {
+    display: block;
+    margin-bottom: 15px;
+}

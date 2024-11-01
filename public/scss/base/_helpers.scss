@@ -1,0 +1,27 @@
+// list reset
+%listreset {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+// clearfix
+%clearfix {
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+}
+
+
+// transition
+%transition {
+	transition: all .3s ease-in-out;
+}
+
+%ellipsis {
+	white-space: nowrap; /* 1 */
+	text-overflow: ellipsis; /* 2 */
+	overflow: hidden;
+}

@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deliver via Shipos for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-shipos-"
+"delivery\n"
+"POT-Creation-Date: 2023-03-31 12:02:42+00:00\n"
+"PO-Revision-Date: 2024-01-04 10:49+0000\n"
+"Last-Translator: Amit Matatof\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: wc-shipos-delivery\n"
+
+#: class/class-ajax.php:245
+msgid " Order canceled"
+msgstr " ההזמנה בוטלה"
+
+#. translators: %s: Total
+#: includes/matat-actions.php:226
+msgid "%s Sent"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for Ship os Delivery orders from within WooCommerce."
+msgstr "‫ShipOS תוסף התממשקות לכל חברות המשלוחים בישראל."
+
+#: class/class-settings.php:123
+msgid "Activate collection points?"
+msgstr "להפעיל נקודות איסוף?"
+
+#. Author of the plugin/theme
+msgid "Amit Matat"
+msgstr ""
+
+#: class/class-admin.php:230
+msgid "Amount to collect"
+msgstr "סכום לאיסוף"
+
+#: class/class-license.php:109 class/class-license.php:128
+msgid "An error occurred, please try again."
+msgstr "אירעה שגיאה, אנא נסה שוב."
+
+#: class/class-settings.php:164
+msgid "Apartment Field Key"
+msgstr ""
+
+#: class/class-admin.php:55
+msgid "Approved"
+msgstr "אושר"
+
+#: class/class-admin.php:54
+msgid "Back from costumer"
+msgstr "חזרה מהלקוח"
+
+#: class/class-settings.php:139
+msgid "Both list and Google Map"
+msgstr "רשימה וגוגל מפות"
+
+#: class/class-admin.php:184
+msgid "Cancel delivery"
+msgstr "ביטול משלוח"
+
+#: class/class-admin.php:47
+msgid "Cancel shipment"
+msgstr "בטל את המשלוח"
+
+#: class/class-admin.php:56
+msgid "Canceled"
+msgstr "מבוטל"
+
+#: includes/Pickup.php:47
+msgid "Changing shipping method price if the order amount is higher than..."
+msgstr ""
+
+#: includes/Pickup.php:156
+msgid "Choose a Collection Point"
+msgstr "בחירת נקודת איסוף"
+
+#: includes/Pickup.php:119
+msgid "Chosen Delivery Spot"
+msgstr "נקודת איסוף שנבחרה"
+
+#: includes/Pickup.php:201 includes/Pickup.php:280
+msgid "Clear"
+msgstr "נקה"
+
+#: includes/Pickup.php:108
+msgid "Click to select a pickup point"
+msgstr "לבחירת נקודת איסוף"
+
+#: class/class-admin.php:53
+msgid "Collected from customer"
+msgstr "נאסף מהלקוח"
+
+#: class/class-admin.php:236
+msgid "Collecting"
+msgstr "משלוח איסוף"
+
+#: class/class-admin.php:159 class/class-ajax.php:180
+msgid "Collecting delivery"
+msgstr "משלוח איסוף"
+
+#: includes/Pickup.php:33
+#, fuzzy
+#| msgid "cost"
+msgid "Cost"
+msgstr "מחיר נקודת איסוף"
+
+#: includes/matat-actions.php:40
+#, fuzzy
+#| msgid "Create orders on matat shipos."
+msgid "Create orders on matat shipos"
+msgstr "יצירת משלוחים להזמנות שנבחרו."
+
+#: includes/matat-actions.php:41
+msgid "Create shipos labels"
+msgstr ""
+
+#: class/class-admin.php:220
+msgid "Create shipping:"
+msgstr "יצירת משלוח:"
+
+#: class/class-settings.php:144
+msgid "Default Pickup point display"
+msgstr "תצוגת ברירת המחדל של נקודת איסוף"
+
+#: class/class-admin.php:239
+msgid "Deliver on:"
+msgstr "תאריך משלוח:"
+
+#. Plugin Name of the plugin/theme
+msgid "Deliver via Shipos for WooCommerce"
+msgstr ""
+
+#: class/class-admin.php:52
+msgid "Delivered"
+msgstr "נשלח"
+
+#: class/class-admin.php:51
+msgid "Delivery man on his way"
+msgstr ""
+
+#: class/class-admin.php:310
+msgid "Delivery number:"
+msgstr "מספר משלוח:"
+
+#: class/class-admin.php:194
+msgid "Delivery status"
+msgstr "סטטוס משלוח"
+
+#: class/class-admin.php:199
+msgid "Delivery status:"
+msgstr "סטטוס משלוח:"
+
+#: class/class-admin.php:198
+msgid "Delivery time:"
+msgstr "זמן משלוח:"
+
+#: includes/Pickup.php:39
+msgid "Discount cost"
+msgstr ""
+
+#: includes/Pickup.php:45
+msgid "Discount cost condition"
+msgstr ""
+
+#: class/class-admin.php:228
+msgid "Double"
+msgstr "כפול"
+
+#: class/class-admin.php:154 class/class-ajax.php:175
+msgid "Double delivery"
+msgstr "משלוח כפול"
+
+#: includes/Pickup.php:35
+msgid "Enter delivery cost"
+msgstr "הכנס עלות משלוח"
+
+#: includes/Pickup.php:41
+msgid "Enter discount cost"
+msgstr ""
+
+#: class/class-settings.php:174
+msgid "Entrance Field Key"
+msgstr ""
+
+#: class/class-ajax.php:149
+msgid "Error creating shipment"
+msgstr "שגיאה ביצירת המשלוח"
+
+#: class/class-admin.php:59
+msgid ""
+"Error fetching data from Matat. Please check your API Settings on Settings ->"
+" Matat Delivery"
+msgstr ""
+
+#: class/class-admin.php:60
+msgid ""
+"Error opening shipment in Matat. Please check your API Settings on Settings -"
+"> Matat Delivery"
+msgstr ""
+
+#: includes/matat-actions.php:142
+msgid "Error: No of selected shipments have exceeded max amount of 100."
+msgstr ""
+
+#: includes/matat-actions.php:140
+msgid "Error: None of the selected orders have shipments."
+msgstr ""
+
+#. translators: 1: WooCommerce Order id
+#: includes/matat-actions.php:89
+msgid "Error: Order id (%1$d) data exist."
+msgstr ""
+
+#: class/class-ajax.php:37 class/class-ajax.php:214 class/class-ajax.php:231
+#: class/class-ajax.php:260 class/class-delivery.php:97
+msgid "Failed security check"
+msgstr ""
+
+#: class/class-ajax.php:269 includes/Pickup.php:377
+msgid ""
+"Failed to initialise WC_Filesystem API while trying to sync Shipos Cities."
+msgstr ""
+
+#: class/class-settings.php:169
+msgid "Floor Field Key"
+msgstr ""
+
+#: class/class-settings.php:138 class/class-settings.php:147
+msgid "Google Map"
+msgstr "גוגל מפות"
+
+#: class/class-settings.php:129
+msgid "Google Maps API Key"
+msgstr "מפתח API של Google Maps"
+
+#: class/class-settings.php:159
+msgid "House Number Field Key"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://matat.co.il/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.linkedin.com/in/amitmatatof/"
+msgstr ""
+
+#: class/class-license.php:124
+msgid "Invalid license."
+msgstr ""
+
+#: class/class-ajax.php:285
+msgid "Json file retrieved locally"
+msgstr ""
+
+#: class/class-settings.php:105
+msgid "License Key"
+msgstr "קוד הפעלה"
+
+#: class/class-settings.php:240
+msgid "License successfully activated"
+msgstr "הרישיון הופעל בהצלחה"
+
+#: class/class-settings.php:148
+msgid "List"
+msgstr "רשימה"
+
+#: class/class-ajax.php:290
+msgid "Locations retrieved from server"
+msgstr ""
+
+#: class/class-settings.php:113
+msgid "Manually by clicking"
+msgstr "ידני (לחיצה על כפתור)"
+
+#: class/class-admin.php:146
+msgid "Matat shipment details: "
+msgstr "פרטי המשלוח: "
+
+#: class/class-admin.php:103 class/class-admin.php:267
+msgid "Matat Shipos"
+msgstr "‫Shipos משלוחים"
+
+#: class/class-admin.php:330
+msgid "No delivery to display"
+msgstr "לא נוצר משלוח להזמנה"
+
+#: class/class-settings.php:125
+msgid "Not supported by all courier companies"
+msgstr "לא נתמך בכל חברות המשלוחים"
+
+#: class/class-admin.php:216
+msgid ""
+"Notice: This plugin was installed after this order was made. Please check "
+"with Matat if you already opened this delivery. "
+msgstr ""
+"שים לב: תוסף זה הותקן לאחר ביצוע הזמנה זו. אנא בדוק אם כבר פתחת משלוח להזמנה "
+"זו. "
+
+#: class/class-admin.php:58
+msgid "On hold"
+msgstr "בהשהיה"
+
+#: includes/Pickup.php:394
+msgid "Oops! Error creating pickup json file..."
+msgstr ""
+
+#: includes/Pickup.php:373
+msgid "Oops! Error getting response from server..."
+msgstr ""
+
+#: class/class-admin.php:50
+msgid "Open"
+msgstr "פתח"
+
+#: class/class-admin.php:334
+msgid "open delivery"
+msgstr "יצירת משלוח"
+
+#: class/class-admin.php:242
+msgid "Open shipment"
+msgstr "יצירת משלוח"
+
+#: class/class-settings.php:179
+msgid "Order Comment Field Key"
+msgstr ""
+
+#. translators: 1: WooCommerce Order id
+#: includes/matat-actions.php:78
+msgid "Order id (%1$d) Has local pickup shipping method."
+msgstr "מספר הזמנה (%1$d) יש שיטת משלוח מקומית לאיסוף."
+
+#: class/class-admin.php:123 class/class-admin.php:323
+msgid ""
+"Order shipping method is Local pickup. Create delivery option is disabled "
+"for this order"
+msgstr ""
+"שיטת המשלוח של ההזמנה היא איסוף מקומי. אפשרות יצירת משלוח מושבתת עבור הזמנה "
+"זו"
+
+#: class/class-admin.php:238
+msgid "Packages:"
+msgstr "כמות חבילות:"
+
+#: class/class-settings.php:154
+msgid "Phone Number Field Key"
+msgstr ""
+
+#: includes/Pickup.php:392
+msgid "Pickup location created successfully..."
+msgstr "מיקום האיסוף נוצר בהצלחה..."
+
+#: class/class-settings.php:134
+msgid "Pickup point display preference"
+msgstr "העדפת תצוגת נקודת איסוף"
+
+#: class/class-settings.php:218
+msgid "Please fill the license field and start shipping."
+msgstr "נא למלא את שדה הרישיון ולהתחיל לשלוח."
+
+#: includes/Pickup.php:336
+msgid "Please select delivery spot."
+msgstr "נא לבחור נקודת איסוף."
+
+#: class/class-admin.php:254
+msgid "Powered by"
+msgstr ""
+
+#: class/class-admin.php:172 class/class-admin.php:250
+#: class/class-admin.php:315
+msgid "Print label"
+msgstr "הדפסת מדבקה"
+
+#: class/class-admin.php:197
+msgid "Receiver name: "
+msgstr "שם המקבל: "
+
+#: class/class-admin.php:156 class/class-admin.php:234 class/class-ajax.php:177
+#: class/class-ajax.php:184
+msgid "Regular delivery"
+msgstr "משלוח רגיל"
+
+#: class/class-admin.php:49
+msgid "Reopen shipment"
+msgstr "פתיחת המשלוח מחדש"
+
+#: includes/Pickup.php:361 includes/Pickup.php:412
+msgid "Requested Delivery point"
+msgstr "נקודת איסוף שנבחרה"
+
+#: class/class-settings.php:190
+msgid "Run the shipment for testing  ?"
+msgstr "האם לשדר לשרת פיתוח?"
+
+#: includes/Pickup.php:228
+msgid "Search"
+msgstr "חיפוש"
+
+#: includes/Pickup.php:157
+msgid "Search and Select a collection point by origin address"
+msgstr "חיפוש ובחירת נקודת איסוף הקרובה אלייך"
+
+#: class/class-admin.php:57
+msgid "Second delivery man "
+msgstr ""
+
+#: includes/Pickup.php:197 includes/Pickup.php:276
+msgid "Select Collection Point"
+msgstr "בחירת נקודת איסוף"
+
+#: includes/Pickup.php:168
+msgid "Select Manually"
+msgstr "בחר מרשימה"
+
+#: includes/Pickup.php:164
+msgid "Select On Map"
+msgstr "בחירה ממפה"
+
+#: includes/Pickup.php:187
+msgid "Selected pickup point:"
+msgstr "נקודת איסוף שנבחרה:"
+
+#: class/class-settings.php:137
+msgid "Selection from a list"
+msgstr "בחירה מתוך רשימה"
+
+#: class/class-settings.php:36
+msgid "Settings"
+msgstr "הגדרות התוסף"
+
+#: class/class-admin.php:182 class/class-admin.php:305
+msgid "Shipment canceled"
+msgstr "המשלוח בוטל"
+
+#: class/class-admin.php:48
+msgid "Shipment canceled successfully"
+msgstr "המשלוח בוטל בהצלחה"
+
+#: class/class-admin.php:166 class/class-admin.php:247
+msgid "Shipment number:"
+msgstr "מספר משלוח:"
+
+#: class/class-settings.php:49
+msgid "Shipos Delivery"
+msgstr "Shipos משלוחים"
+
+#: includes/Pickup.php:16 includes/Pickup.php:17 includes/Pickup.php:26
+#: includes/Pickup.php:29
+msgid "Shipos delivery"
+msgstr "Shipos משלוחים"
+
+#: class/class-settings.php:99
+msgid "Shipos option settings"
+msgstr "Shipos עמוד הגדרות"
+
+#: class/class-admin.php:200
+msgid "Shipped on:"
+msgstr "נשלח ב:"
+
+#: class/class-admin.php:297
+msgid "Shipping method is Local pickup."
+msgstr "שיטת המשלוח היא איסוף מקומי."
+
+#. translators: 1: Shipping Number, 2: Shipping Type
+#: class/class-ajax.php:189
+msgid ""
+"Shipping successfully created, shipping number: %1$s Shipping type: %2$s"
+msgstr ""
+
+#. translators: %s: Shipping
+#: includes/matat-actions.php:214
+msgid "Shipping: %s"
+msgstr ""
+
+#: class/class-settings.php:94
+msgid "Sync pickup location"
+msgstr "סנכרון מיקום איסוף"
+
+#: class/class-settings.php:188
+msgid "Test Mode"
+msgstr "מצב בדיקות"
+
+#. translators: %d: WooCommerce Order id, %s: Error message
+#: includes/matat-actions.php:167
+msgid "There is an error with order id (%1$d): %2$s"
+msgstr ""
+
+#: includes/Pickup.php:28
+msgid "This controls the title which the user sees during checkout."
+msgstr "זה שולט בכותרת שהמשתמש רואה במהלך התשלום."
+
+#: includes/Pickup.php:239
+msgid "Total Results: "
+msgstr "סך התוצאות: "
+
+#: class/class-settings.php:119
+msgid "Use order notes if order comment field is empty"
+msgstr ""
+
+#: class/class-settings.php:117
+msgid "Use order notes?"
+msgstr ""
+
+#: includes/Pickup.php:260
+msgid "View on Map"
+msgstr "הצג במפה"
+
+#: wc-shipos-delivery.php:127
+msgid "Warning! Shipos is currently running in test mode."
+msgstr ""
+
+#: class/class-admin.php:46
+msgid "We are experiencing a communication error. Please try again later."
+msgstr "אנו חווים שגיאת תקשורת. בבקשה נסה שוב מאוחר יותר."
+
+#: class/class-settings.php:111
+msgid "When do you want to send Shipment?"
+msgstr "מתי לייצר את המשלוח?"
+
+#: wc-shipos-delivery.php:119
+msgid ""
+"WooCommerce is not active. Please activate plugin before using Matat "
+"Delivery plugin."
+msgstr ""
+
+#: class/class-license.php:120
+msgid "Your license key has been disabled."
+msgstr "מפתח הרישיון שלך הושבת."
